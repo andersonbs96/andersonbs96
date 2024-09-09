@@ -2,7 +2,7 @@
 - 👀 I’m interested in pro-wrestling, NASCAR and Soccer
 - 🌱 I’m currently learning Java and MySQL
 - 💞️ I’m looking to collaborate in something that can help me to earn some confidence.
-- 📫 You can reach me via email andersonsantos6991@gmail.com
+- 📫 You can reach me via email andersonsantos6991@gmail.com or andersonsantos6991@outlook.com.br
 - 😄 Pronouns: He, Him
 - ⚡ Fun fact: no fun fact
 
