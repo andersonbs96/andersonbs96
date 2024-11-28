@@ -11,7 +11,7 @@ andersonbs96/andersonbs96 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 
 --->
-<div>
+<div style="display: flex">
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=andersonbs96&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="andersonbs96's GitHub Stats" />
   </div>
