@@ -14,8 +14,6 @@ You can click the Preview link to take a look at your changes.
 <div style="display: inline-flex; flex-direction: column; text-align: center;">
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=andersonbs96&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="andersonbs96's GitHub Stats" />
-  </div>
-  <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonbs96&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="andersonbs96's GitHub Stats" />
   </div>
   <div>
