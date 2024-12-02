@@ -11,15 +11,13 @@ andersonbs96/andersonbs96 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 
 --->
-<div style="display: inline-flex; flex-direction: column; text-align: center;">
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=andersonbs96&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="andersonbs96's GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonbs96&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="andersonbs96's GitHub Stats" />
-  </div>
-  <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=andersonbs96&theme=dark&hide_border=true" alt="andersonbs96's GitHub Stats" />
-  </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=andersonbs96&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=noctis_minimus&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andersonbs96&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=noctis_minimus&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=andersonbs96&locale=pt-br&mode=daily&theme=noctis_minimus&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
 </div>
+
+###
 
 
 
