@@ -11,7 +11,7 @@ andersonbs96/andersonbs96 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 
 --->
-<div align="center" flex-direction="row">
+<div align="center" flex-direction="column">
   <img src="https://github-readme-stats.vercel.app/api?username=andersonbs96&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=noctis_minimus&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andersonbs96&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=noctis_minimus&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
 </div>
